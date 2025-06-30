@@ -1,0 +1,12 @@
+<SamsungMobileLanguage>
+   <Country>Korea</Country>
+   <CountryISO>ko</CountryISO>
+   <SalesCode>KOR</SalesCode>
+   <LanguageSet>
+          <Input>
+                <EnableList>
+	        ko;en_US;
+                </EnableList>
+          </Input>
+   </LanguageSet>
+</SamsungMobileLanguage>
