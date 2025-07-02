@@ -32,7 +32,7 @@ ro.product.cpu.abilist=armeabi-v7a,armeabi
 ro.product.cpu.abilist32=armeabi-v7a,armeabi
 ro.product.cpu.abilist64=
 ro.product.manufacturer=samsung
-ro.product.locale=ko-KR
+ro.product.locale=en-US
 ro.wifi.channels=
 ro.board.platform=msm8937
 # ro.build.product is obsolete; use ro.product.device
